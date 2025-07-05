@@ -32,7 +32,7 @@ This project is a simple Streamlit-based web app that uses **Google's Gemini 1.5
 
 ## 📦 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/finance-tip-generator.git
+git clone https://github.com/nischalram777/Personal-Finance-Tip-Gen
 cd finance-tip-generator
 
 2. Install Dependencies
